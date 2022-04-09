@@ -1,2 +1,2 @@
 # HelpMePass_SOEN357
-Course Project
+SOEN 357 Course Project
